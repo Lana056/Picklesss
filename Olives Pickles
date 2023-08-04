@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Olives Pickles</title>
+</head>
+<body>
+    <h1>Welcome to Olives Pickles</h1>
+    <table>
+        <tr>
+            <td><a href="https://www.google.com/search?q=pickles" target="_blank">Pickles Table 1</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td><a href="https://www.google.com/search?q=pickles" target="_blank">Pickles Table 2</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td><a href="https://www.google.com/search?q=pickles" target="_blank">Pickles Table 3</a></td>
+        </tr>
+    </table>
+</body>
+</html>
